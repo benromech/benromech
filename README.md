@@ -1,11 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&duration=3000&pause=1000&color=BD50BD&center=true&vCenter=true&multiline=true&random=false&width=900&height=180&lines=Hussain;Full-Stack+Developer)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://discord.gg/DMPTJJ3r" alt="Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/incasedname"><img width="32px" alt="Dev.to" title="Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+
 
 ### 👨‍💻 Programming and markup languages
 
